@@ -1,0 +1,22 @@
+span.sex, span.position, span.mainPage, span.Email {
+    margin-left: 30px;
+}
+u {
+    color: blue;
+}
+body {
+    width: 90%;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.title p {    
+    font-size: 200%;
+}
+.childTitle p{
+
+	    font-size: 150%;
+
+}
+.marginTop{
+	margin-top: 10px;
+}

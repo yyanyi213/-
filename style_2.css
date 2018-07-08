@@ -1,0 +1,36 @@
+span.sex, span.position, span.mainPage, span.Email {
+    margin-left: 30px;
+}
+u {
+    color: blue;
+}
+div.title {
+    width: 20%;
+    float: left;
+    background-color: blue;
+    height: 719px;
+    color: white;
+}
+div.other {
+    float: right;
+    width: 78%;
+}
+div.title h1 {
+    padding-top: 30px;
+    padding-left: 70px;
+}
+body {
+    width: 90%;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.title p {
+    font-size: 200%;
+    padding-left: 50px;
+}
+.childTitle p {
+    font-size: 150%;
+}
+.marginTop {
+    margin-top: 10px;
+}
